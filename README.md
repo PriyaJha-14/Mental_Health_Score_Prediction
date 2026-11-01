@@ -14,11 +14,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
  
-### 🔗 [**Try the Live App →**](https://mental-health-score-prediction-1-wtnx.onrender.com)
- 
-</div>
-> ⏳ **Note:** The app is hosted on Render's free tier, so the first request after a period of inactivity may take 30–60 seconds while the server wakes up.
- 
 ---
  
 ## 📌 Overview
@@ -26,8 +21,6 @@
 **MindScope** is an end-to-end machine learning project. A trained regression model is served through a **FastAPI** backend and connected to a clean, responsive web interface. Users fill in a short "check-in" form about their habits, and the app returns a predicted **mental health score out of 10**.
  
 The goal is to explore how everyday factors — screen time, phone unlocks, sleep, study hours, physical activity and stress — relate to student well-being.
- 
-> ⚠️ **Disclaimer:** This project is for **educational and informational purposes only**. The score is a model-generated estimate, **not a clinical assessment or a diagnosis**. If you are struggling with your mental health, please reach out to a qualified professional.
  
 ---
  
