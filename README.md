@@ -1,18 +1,23 @@
-<div align="center">
-# 🧠 MindScope — Mental Health Score Prediction
+<h1 align="center">🧠 MindScope — Mental Health Score Prediction</h1>
  
-**A machine learning web app that predicts a student's mental health score (out of 10) from their daily digital habits, lifestyle and stress level.**
- 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://mental-health-score-prediction-1-wtnx.onrender.com)
-[![Dataset](https://img.shields.io/badge/Dataset-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/shivasingh4945/student-social-media-and-mental-health-impact)
- 
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+<p align="center">
+  <b>A machine learning web app that predicts a student's mental health score (out of 10)<br>from their daily digital habits, lifestyle and stress level.</b>
+</p>
+<p align="center">
+  <a href="https://mental-health-score-prediction-1-wtnx.onrender.com"><img src="https://img.shields.io/badge/Live%20Demo-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Live Demo"></a>
+  <a href="https://www.kaggle.com/datasets/shivasingh4945/student-social-media-and-mental-health-impact"><img src="https://img.shields.io/badge/Dataset-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Dataset"></a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
+</p>
+<p align="center">
+</p>
  
 ---
  
@@ -219,9 +224,5 @@ Suggestions and improvements are welcome! Feel free to open an issue or submit a
  
 ---
  
-<div align="center">
-⭐ If you found this project useful, please consider giving it a star!
- 
-*Designed for reflection, not diagnosis.*
- 
-</div>
+<p align="center">⭐ If you found this project useful, please consider giving it a star!</p>
+<p align="center"><i>Designed for reflection, not diagnosis.</i></p>
